@@ -5,12 +5,11 @@ An **Online Voting System** built using Java, JSP, and Servlet, designed to auto
 ## 📋 Table of Contents  
 1. [📄 Abstract](#-abstract)  
 2. [🚀 Objectives](#-objectives)  
-3. [▶️ Demo](#-demo)
-4. [🛠 Technologies/Tools used](#-technologiestools-used)  
-5. [👥 Roles in the System](#-roles-in-the-system)  
-6. [🛢 Database Tables](#-database-tables) 
-7. [🎨 Project Architecture](#-design-pattern)     
-8. [⚙️ Setup and Installation](#️-setup-and-installation)
+3. [🛠 Technologies/Tools used](#-technologiestools-used)  
+4. [👥 Roles in the System](#-roles-in-the-system)  
+5. [🛢 Database Tables](#-database-tables) 
+6. [🎨 Project Architecture](#-design-pattern)
+7. [⚙️ Setup and Installation](#️-setup-and-installation)
 
 ## 📄 **Abstract**
 
@@ -27,10 +26,6 @@ The Online Voting System simplifies the voting process by allowing users to secu
 7. **Ensure Security**: Implement measures to prevent duplicate voting and maintain data integrity.  
 8. **Provide an Admin Panel**: Facilitate party management and vote monitoring for administrators.
 
-## ▶️ Demo
-<div align="center">
-<img src="src/main/webapp/images/demo.mp4" alt="Demo video" width="90%" style="border-radius: 16px;"/>
-</div>
 
 ## 🛠 **Technologies/Tools used**
 
